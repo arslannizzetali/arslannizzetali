@@ -6,7 +6,8 @@ Most of my work sits where a real operational problem meets production concerns 
 
 - 🏥 Currently delivering **BakımEvi**, a patient tracking and encrypted document management system sold to a care facility in Turkey
 - 🧠 Interested in AI integrations that stay grounded in the user's own data
-- 📫 [X](https://x.com/arslanizzetali)
+- 🏆 Built [CareCenter](https://github.com/arslannizzetali/CareCenter), an AI-assisted version of BakımEvi with anonymized handover summaries, for the AMD AI DevMaster Hackathon 2026
+- 📫 [LinkedIn](https://www.linkedin.com/in/izzetarslann/) · [X](https://x.com/arslanizzetali)
 
 ## Featured projects
 
